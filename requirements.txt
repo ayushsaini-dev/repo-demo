@@ -1,0 +1,6 @@
+transformers
+peft
+torch
+datasets
+rouge_score
+numpy
